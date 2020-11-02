@@ -1,4 +1,5 @@
-[{
-    "stringKey": "Value"
-    "testKey": "testValue" 
-}]
+[
+    {
+        "stringKey": "Value"
+    }
+]
